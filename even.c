@@ -10,3 +10,5 @@ else
 printf("the number %d is odd,n);
 return 0;
 }
+
+       
