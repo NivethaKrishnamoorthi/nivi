@@ -1,5 +1,5 @@
-#include<stdio.h>
-void main()
+#include<stdio.h>  
+main()
 {
 char ch:
 printf("the character is ");
