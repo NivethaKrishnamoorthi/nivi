@@ -10,3 +10,4 @@ else
 printf("the given charcter is not alphabet");
 getch();
 }
+
